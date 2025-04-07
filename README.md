@@ -19,7 +19,8 @@ Through these phases, we explore user behavior, identify trends, and deliver act
   Understand how *casual riders* and *annual members* use Cyclistic bikes differently. To design a new **marketing strategy** to convert casual riders into annual members. 
   
 ## Medium Blog:
-Read the full story of this case study in *medium*   
+Read the full story of this case study in *medium* [click here](https://medium.com/@dkden3103/case-study-how-does-a-bike-share-navigate-speedy-success-dadd4bf25b7f)
 Which provides the detailed understanding of the case study and six phases of *data analysis* used in this case study 
 
+## Datasets
 The Datasets.zip file contains the original 2019 and 2020 trip data (cycle_trips_2019q1.xlsx, cycle_trips_2020q1.xlsx) and their processed versions (2019_worked.xlsx, 2020_worked.xlsx) with data cleaning and analysis steps.
