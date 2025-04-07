@@ -21,3 +21,5 @@ Through these phases, we explore user behavior, identify trends, and deliver act
 ## Medium Blog:
 Read the full story of this case study in *medium*   
 Which provides the detailed understanding of the case study and six phases of *data analysis* used in this case study 
+
+The Datasets.zip file contains the original 2019 and 2020 trip data (cycle_trips_2019q1.xlsx, cycle_trips_2020q1.xlsx) and their processed versions (2019_worked.xlsx, 2020_worked.xlsx) with data cleaning and analysis steps.
